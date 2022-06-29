@@ -1,4 +1,3 @@
-Test :
 #include <Servo.h>
 Servo servol;
 
@@ -14,5 +13,3 @@ void loop()
     
     
 }
-
-
